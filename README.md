@@ -1,6 +1,6 @@
 # Yazlab1 3. Proje    
 
-# Web Uygulaması 
+# Web Uygulaması  
 
 # Özet
 Proje kullanıcının pdf dosyalarını yükleyebildiği ve bu yüklenen dökümanlardan temel bilgilerin çıkarılıp sorgulanabildiği bir web uygulamasıdır. Uygulama Python dili nde Django frameworkü kullanılarak geliştirilmiştir.Dokümanda projenin tanımı, çözüme yönelik yapılan araştırmalar, kullanılan fonksiyonlar, proje bitimindeki deneysel sonuçlar ve kod bilgisi gibi programın oluşumunu açıklayan başlıklara yer verilmiştir. Doküman sonunda projeyi hazırlarken kullandığımız kaynaklar bulunmaktadır.
